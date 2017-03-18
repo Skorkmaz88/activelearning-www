@@ -1,0 +1,32 @@
+{
+  "name": "activelearning-www",
+  "version": "0.0.1",
+  "description": "Active learning playground over web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skorkmaz88/activelearning-www.git"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "active",
+    "learning",
+    "nodejs",
+    "rethinkdb"
+  ],
+  "author": "semih korkmaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skorkmaz88/activelearning-www/issues"
+  },
+  "homepage": "https://github.com/Skorkmaz88/activelearning-www#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "thinky": "^2.3.8"
+  }
+}
